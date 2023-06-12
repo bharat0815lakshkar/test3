@@ -1,8 +1,8 @@
-import Image from 'next/image'
-
+ 
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      you&apos;re free
   <div class="grid md:grid-cols-2 gap-4">
   <div class="grid grid-rows-2 grid-flow-col gap-4">
   <img class="alignnone size-full wp-image-2467" src="https://www.savethechildren.in/wp-content/uploads/2022/08/Artboard-2-1.webp" alt="Donate to charity" width="885" height="454"></img>
